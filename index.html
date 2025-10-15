@@ -2282,7 +2282,9 @@
       }
 
       // --- WRAPPER FOR DOM DEPENDENT LOGIC ---
-      document.addEventListener("DOMContentLoaded", () => {
+
+      // --- WRAPPER FOR DOM DEPENDENT LOGIC ---
+      document.addEventListener("DOMContentLoaded", async () => {
         // Existing event listeners
         document
           .getElementById("nextWeekBtn")
@@ -2305,8 +2307,8 @@
         buffer.addEventListener("dragleave", (ev) => dragLeave(ev));
         buffer.addEventListener("drop", dropToBuffer);
 
-        // Initial setup and render
-        initSessionLocations();
+        // Initial setup and render (NOW AWAITS the async init)
+        await initSessionLocations();
         renderSchedule();
       }); // End of DOMContentLoaded
     </script>
