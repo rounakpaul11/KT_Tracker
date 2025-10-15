@@ -1,0 +1,756 @@
+{
+  "sessionDetails": {
+    "EC01": {
+      "id": "EC-S.001",
+      "name": "Business Overview & Purpose of the Application",
+      "provider": "Trevor D., Jimmy K., Harain L.",
+      "part": "Full",
+      "desc": "Understanding how the application fits within the overall business context, business capabilities/processes modelled/mapped housed within the current system."
+    },
+    "EC02": {
+      "id": "EC-S.002",
+      "name": "Application Overview & Module Walkthrough",
+      "provider": "Trevor D., Jimmy K., Harain L.",
+      "part": "Part 1/2",
+      "desc": "Understand the system, key modules, key processes/capabilities modelled within each module, Environments & Hosting."
+    },
+    "EC03": {
+      "id": "EC-S.002",
+      "name": "Application Overview & Module Walkthrough",
+      "provider": "Trevor D., Jimmy K., Harain L.",
+      "part": "Part 2/2",
+      "desc": "Understand the system, key modules, key processes/capabilities modelled within each module, Environments & Hosting."
+    },
+    "EC04": {
+      "id": "EC-S.003",
+      "name": "System Context Revisit & Integration Landscape",
+      "provider": "Trevor D., Jimmy K., Harain L.",
+      "part": "Part 1/2",
+      "desc": "Database Structures & How Integration Feeds into DB."
+    },
+    "EC05": {
+      "id": "EC-S.003",
+      "name": "System Context Revisit & Integration Landscape",
+      "provider": "Trevor D., Jimmy K., Harain L.",
+      "part": "Part 2/2",
+      "desc": "Database Structures & How Integration Feeds into DB."
+    },
+    "EC06": {
+      "id": "EC-S.004",
+      "name": "Support – Roles, Responsibilities & Coordination",
+      "provider": "Trevor D., Jimmy K., Harain L.",
+      "part": "Part 1/2",
+      "desc": "Define the RACI for Key Activities, SLAs Covered, Key Business Groups & Users, Key Workarounds Permitted, Key Business Stakeholders, Key other IT Dependencies."
+    },
+    "EC07": {
+      "id": "EC-S.004",
+      "name": "Support – Roles, Responsibilities & Coordination",
+      "provider": "Trevor D., Jimmy K., Harain L.",
+      "part": "Part 2/2",
+      "desc": "Define the RACI for Key Activities, SLAs Covered, Key Business Groups & Users, Key Workarounds Permitted, Key Business Stakeholders, Key other IT Dependencies."
+    },
+    "EC08": {
+      "id": "EC-S.005",
+      "name": "Module Discovery & Deep Dive: Identity & Access Management",
+      "provider": "Trevor D., Jimmy K., Harain L.",
+      "part": "Full",
+      "desc": "Ticketing Flow of IAM tickets, Approv Mechanism & Actors Involved, Privileges by User Group, User Mapping."
+    },
+    "EC09": {
+      "id": "EC-S.006",
+      "name": "Module Discovery & Deep Dive: -Multiple-",
+      "provider": "Trevor D., Jimmy K., Harain L.",
+      "part": "Part 1/6",
+      "desc": "Module Functionality, Standard Tasks within the Modules, Business Processes leveraging the module."
+    },
+    "EC10": {
+      "id": "EC-S.006",
+      "name": "Module Discovery & Deep Dive: -Multiple-",
+      "provider": "Trevor D., Jimmy K., Harain L.",
+      "part": "Part 2/6",
+      "desc": "Module Functionality, Standard Tasks within the Modules, Business Processes leveraging the module."
+    },
+    "EC11": {
+      "id": "EC-S.006",
+      "name": "Module Discovery & Deep Dive: -Multiple-",
+      "provider": "Trevor D., Jimmy K., Harain L.",
+      "part": "Part 3/6",
+      "desc": "Module Functionality, Standard Tasks within the Modules, Business Processes leveraging the module."
+    },
+    "EC12": {
+      "id": "EC-S.006",
+      "name": "Module Discovery & Deep Dive: -Multiple-",
+      "provider": "Trevor D., Jimmy K., Harain L.",
+      "part": "Part 4/6",
+      "desc": "Module Functionality, Standard Tasks within the Modules, Business Processes leveraging the module."
+    },
+    "EC13": {
+      "id": "EC-S.006",
+      "name": "Module Discovery & Deep Dive: -Multiple-",
+      "provider": "Trevor D., Jimmy K., Harain L.",
+      "part": "Part 5/6",
+      "desc": "Module Functionality, Standard Tasks within the Modules, Business Processes leveraging the module."
+    },
+    "EC14": {
+      "id": "EC-S.006",
+      "name": "Module Discovery & Deep Dive: -Multiple-",
+      "provider": "Trevor D., Jimmy K., Harain L.",
+      "part": "Part 6/6",
+      "desc": "Module Functionality, Standard Tasks within the Modules, Business Processes leveraging the module."
+    },
+    "EC15": {
+      "id": "EC-S.007",
+      "name": "Module Discovery & Deep Dive: -Multiple-",
+      "provider": "Trevor D., Jimmy K., Harain L.",
+      "part": "Part 1/6",
+      "desc": "Module Functionality, Standard Tasks within the Modules, Business Processes leveraging the module."
+    },
+    "EC16": {
+      "id": "EC-S.007",
+      "name": "Module Discovery & Deep Dive: -Multiple-",
+      "provider": "Trevor D., Jimmy K., Harain L.",
+      "part": "Part 2/6",
+      "desc": "Module Functionality, Standard Tasks within the Modules, Business Processes leveraging the module."
+    },
+    "EC17": {
+      "id": "EC-S.007",
+      "name": "Module Discovery & Deep Dive: -Multiple-",
+      "provider": "Trevor D., Jimmy K., Harain L.",
+      "part": "Part 3/6",
+      "desc": "Module Functionality, Standard Tasks within the Modules, Business Processes leveraging the module."
+    },
+    "EC18": {
+      "id": "EC-S.007",
+      "name": "Module Discovery & Deep Dive: -Multiple-",
+      "provider": "Trevor D., Jimmy K., Harain L.",
+      "part": "Part 4/6",
+      "desc": "Module Functionality, Standard Tasks within the Modules, Business Processes leveraging the module."
+    },
+    "EC19": {
+      "id": "EC-S.007",
+      "name": "Module Discovery & Deep Dive: -Multiple-",
+      "provider": "Trevor D., Jimmy K., Harain L.",
+      "part": "Part 5/6",
+      "desc": "Module Functionality, Standard Tasks within the Modules, Business Processes leveraging the module."
+    },
+    "EC20": {
+      "id": "EC-S.007",
+      "name": "Module Discovery & Deep Dive: -Multiple-",
+      "provider": "Trevor D., Jimmy K., Harain L.",
+      "part": "Part 6/6",
+      "desc": "Module Functionality, Standard Tasks within the Modules, Business Processes leveraging the module."
+    },
+    "EC21": {
+      "id": "EC-S.008",
+      "name": "Module Discovery & Deep Dive: -Multiple-",
+      "provider": "Trevor D., Jimmy K., Harain L.",
+      "part": "Part 1/3",
+      "desc": "Module Functionality, Standard Tasks within the Modules, Business Processes leveraging the module."
+    },
+    "EC22": {
+      "id": "EC-S.008",
+      "name": "Module Discovery & Deep Dive: -Multiple-",
+      "provider": "Trevor D., Jimmy K., Harain L.",
+      "part": "Part 2/3",
+      "desc": "Module Functionality, Standard Tasks within the Modules, Business Processes leveraging the module."
+    },
+    "EC23": {
+      "id": "EC-S.008",
+      "name": "Module Discovery & Deep Dive: -Multiple-",
+      "provider": "Trevor D., Jimmy K., Harain L.",
+      "part": "Part 3/3",
+      "desc": "Module Functionality, Standard Tasks within the Modules, Business Processes leveraging the module."
+    },
+    "EC24": {
+      "id": "EC-S.009",
+      "name": "Discovery & Deep Dive: Non-Application Specific Modules",
+      "provider": "Trevor D., Jimmy K., Harain L.",
+      "part": "Full",
+      "desc": "Module Functionality, Standard Tasks within the Modules, Business Processes leveraging the module."
+    },
+    "EC25": {
+      "id": "EC-S.010",
+      "name": "Final EC Wrap-up & Pending Questions",
+      "provider": "Trevor D., Jimmy K., Harain L.",
+      "part": "Full",
+      "desc": "Final application wrap-up and addressing any remaining queries or documentation gaps."
+    },
+    "BR01": {
+      "id": "BR-S.001",
+      "name": "Business Overview & Purpose of the Application",
+      "provider": "Jimmy K.",
+      "part": "Full",
+      "desc": "Understanding how the application fits within the overall business context, business capabilities/processes modelled/mapped housed within the current system."
+    },
+    "BR02": {
+      "id": "BR-S.002",
+      "name": "Application Overview & Module Walkthrough",
+      "provider": "Jimmy K.",
+      "part": "Part 1/2",
+      "desc": "Understand the system, key modules, key processes/capabilities modelled within each module, Environments & Hosting."
+    },
+    "BR03": {
+      "id": "BR-S.002",
+      "name": "Application Overview & Module Walkthrough",
+      "provider": "Jimmy K.",
+      "part": "Part 2/2",
+      "desc": "Understand the system, key modules, key processes/capabilities modelled within each module, Environments & Hosting."
+    },
+    "BR04": {
+      "id": "BR-S.003",
+      "name": "System Context Revisit & Integration Landscape",
+      "provider": "Jimmy K.",
+      "part": "Part 1/2",
+      "desc": "Database Structures & How Integration Feeds into DB."
+    },
+    "BR05": {
+      "id": "BR-S.003",
+      "name": "System Context Revisit & Integration Landscape",
+      "provider": "Jimmy K.",
+      "part": "Part 2/2",
+      "desc": "Database Structures & How Integration Feeds into DB."
+    },
+    "BR06": {
+      "id": "BR-S.004",
+      "name": "Support – Roles, Responsibilities & Coordination",
+      "provider": "Jimmy K.",
+      "part": "Part 1/2",
+      "desc": "Define the RACI for Key Activities, SLAs Covered, Key Business Groups & Users, Key Workarounds Permitted, Key Business Stakeholders, Key other IT Dependencies."
+    },
+    "BR07": {
+      "id": "BR-S.004",
+      "name": "Support – Roles, Responsibilities & Coordination",
+      "provider": "Jimmy K.",
+      "part": "Part 2/2",
+      "desc": "Define the RACI for Key Activities, SLAs Covered, Key Business Groups & Users, Key Workarounds Permitted, Key Business Stakeholders, Key other IT Dependencies."
+    },
+    "BR08": {
+      "id": "BR-S.005",
+      "name": "Module Discovery & Deep Dive: -Multiple-",
+      "provider": "Jimmy K.",
+      "part": "Part 1/6",
+      "desc": "Module Functionality, Standard Tasks within the Modules, Business Processes leveraging the module."
+    },
+    "BR09": {
+      "id": "BR-S.005",
+      "name": "Module Discovery & Deep Dive: -Multiple-",
+      "provider": "Jimmy K.",
+      "part": "Part 2/6",
+      "desc": "Module Functionality, Standard Tasks within the Modules, Business Processes leveraging the module."
+    },
+    "BR10": {
+      "id": "BR-S.005",
+      "name": "Module Discovery & Deep Dive: -Multiple-",
+      "provider": "Jimmy K.",
+      "part": "Part 3/6",
+      "desc": "Module Functionality, Standard Tasks within the Modules, Business Processes leveraging the module."
+    },
+    "BR11": {
+      "id": "BR-S.005",
+      "name": "Module Discovery & Deep Dive: -Multiple-",
+      "provider": "Jimmy K.",
+      "part": "Part 4/6",
+      "desc": "Module Functionality, Standard Tasks within the Modules, Business Processes leveraging the module."
+    },
+    "BR12": {
+      "id": "BR-S.005",
+      "name": "Module Discovery & Deep Dive: -Multiple-",
+      "provider": "Jimmy K.",
+      "part": "Part 5/6",
+      "desc": "Module Functionality, Standard Tasks within the Modules, Business Processes leveraging the module."
+    },
+    "BR13": {
+      "id": "BR-S.005",
+      "name": "Module Discovery & Deep Dive: -Multiple-",
+      "provider": "Jimmy K.",
+      "part": "Part 6/6",
+      "desc": "Module Functionality, Standard Tasks within the Modules, Business Processes leveraging the module."
+    },
+    "BR14": {
+      "id": "BR-S.006",
+      "name": "Module Discovery & Deep Dive: -Multiple-",
+      "provider": "Jimmy K.",
+      "part": "Part 1/4",
+      "desc": "Module Functionality, Standard Tasks within the Modules, Business Processes leveraging the module."
+    },
+    "BR15": {
+      "id": "BR-S.006",
+      "name": "Module Discovery & Deep Dive: -Multiple-",
+      "provider": "Jimmy K.",
+      "part": "Part 2/4",
+      "desc": "Module Functionality, Standard Tasks within the Modules, Business Processes leveraging the module."
+    },
+    "BR16": {
+      "id": "BR-S.006",
+      "name": "Module Discovery & Deep Dive: -Multiple-",
+      "provider": "Jimmy K.",
+      "part": "Part 3/4",
+      "desc": "Module Functionality, Standard Tasks within the Modules, Business Processes leveraging the module."
+    },
+    "BR17": {
+      "id": "BR-S.006",
+      "name": "Module Discovery & Deep Dive: -Multiple-",
+      "provider": "Jimmy K.",
+      "part": "Part 4/4",
+      "desc": "Module Functionality, Standard Tasks within the Modules, Business Processes leveraging the module."
+    },
+    "BR18": {
+      "id": "BR-S.007",
+      "name": "Module Discovery & Deep Dive: -Multiple-",
+      "provider": "Jimmy K.",
+      "part": "Part 1/5",
+      "desc": "Module Functionality, Standard Tasks within the Modules, Business Processes leveraging the module."
+    },
+    "BR19": {
+      "id": "BR-S.007",
+      "name": "Module Discovery & Deep Dive: -Multiple-",
+      "provider": "Jimmy K.",
+      "part": "Part 2/5",
+      "desc": "Module Functionality, Standard Tasks within the Modules, Business Processes leveraging the module."
+    },
+    "BR20": {
+      "id": "BR-S.007",
+      "name": "Module Discovery & Deep Dive: -Multiple-",
+      "provider": "Jimmy K.",
+      "part": "Part 3/5",
+      "desc": "Module Functionality, Standard Tasks within the Modules, Business Processes leveraging the module."
+    },
+    "BR21": {
+      "id": "BR-S.007",
+      "name": "Module Discovery & Deep Dive: -Multiple-",
+      "provider": "Jimmy K.",
+      "part": "Part 4/5",
+      "desc": "Module Functionality, Standard Tasks within the Modules, Business Processes leveraging the module."
+    },
+    "BR22": {
+      "id": "BR-S.007",
+      "name": "Module Discovery & Deep Dive: -Multiple-",
+      "provider": "Jimmy K.",
+      "part": "Part 5/5",
+      "desc": "Module Functionality, Standard Tasks within the Modules, Business Processes leveraging the module."
+    },
+    "BR23": {
+      "id": "BR-S.008",
+      "name": "Final BR Wrap-up & Pending Questions",
+      "provider": "Jimmy K.",
+      "part": "Full",
+      "desc": "Final application wrap-up and addressing any remaining queries or documentation gaps."
+    },
+    "GEO01": {
+      "id": "GEO-S.001",
+      "name": "Business Overview & Purpose of the Application",
+      "provider": "Harain L.",
+      "part": "Full",
+      "desc": "Understanding how the application fits within the overall business context, business capabilities/processes modelled/mapped housed within the current system."
+    },
+    "GEO02": {
+      "id": "GEO-S.002",
+      "name": "Application Overview & Module Walkthrough",
+      "provider": "Harain L.",
+      "part": "Part 1/2",
+      "desc": "Understand the system, key modules, key processes/capabilities modelled within each module, Environments & Hosting."
+    },
+    "GEO03": {
+      "id": "GEO-S.002",
+      "name": "Application Overview & Module Walkthrough",
+      "provider": "Harain L.",
+      "part": "Part 2/2",
+      "desc": "Understand the system, key modules, key processes/capabilities modelled within each module, Environments & Hosting."
+    },
+    "GEO04": {
+      "id": "GEO-S.003",
+      "name": "Module Discovery & Deep Dive: -Multiple-",
+      "provider": "Harain L.",
+      "part": "Part 1/3",
+      "desc": "Module Functionality, Standard Tasks within the Modules, Business Processes leveraging the module."
+    },
+    "GEO05": {
+      "id": "GEO-S.003",
+      "name": "Module Discovery & Deep Dive: -Multiple-",
+      "provider": "Harain L.",
+      "part": "Part 2/3",
+      "desc": "Module Functionality, Standard Tasks within the Modules, Business Processes leveraging the module."
+    },
+    "GEO06": {
+      "id": "GEO-S.003",
+      "name": "Module Discovery & Deep Dive: -Multiple-",
+      "provider": "Harain L.",
+      "part": "Part 3/3",
+      "desc": "Module Functionality, Standard Tasks within the Modules, Business Processes leveraging the module."
+    },
+    "GEO07": {
+      "id": "GEO-S.004",
+      "name": "Module Discovery & Deep Dive: -Multiple-",
+      "provider": "Harain L.",
+      "part": "Part 1/4",
+      "desc": "Module Functionality, Standard Tasks within the Modules, Business Processes leveraging the module."
+    },
+    "GEO08": {
+      "id": "GEO-S.004",
+      "name": "Module Discovery & Deep Dive: -Multiple-",
+      "provider": "Harain L.",
+      "part": "Part 2/4",
+      "desc": "Module Functionality, Standard Tasks within the Modules, Business Processes leveraging the module."
+    },
+    "GEO09": {
+      "id": "GEO-S.004",
+      "name": "Module Discovery & Deep Dive: -Multiple-",
+      "provider": "Harain L.",
+      "part": "Part 3/4",
+      "desc": "Module Functionality, Standard Tasks within the Modules, Business Processes leveraging the module."
+    },
+    "GEO10": {
+      "id": "GEO-S.004",
+      "name": "Module Discovery & Deep Dive: -Multiple-",
+      "provider": "Harain L.",
+      "part": "Part 4/4",
+      "desc": "Module Functionality, Standard Tasks within the Modules, Business Processes leveraging the module."
+    },
+    "OV01": {
+      "id": "OV-S.001",
+      "name": "Business Overview & Purpose of the Application",
+      "provider": "Harain L.",
+      "part": "Full",
+      "desc": "Understanding how the application fits within the overall business context, business capabilities/processes modelled/mapped housed within the current system."
+    },
+    "OV02": {
+      "id": "OV-S.002",
+      "name": "Application Overview & Module Walkthrough",
+      "provider": "Harain L.",
+      "part": "Part 1/2",
+      "desc": "Understand the system, key modules, key processes/capabilities modelled within each module, Environments & Hosting."
+    },
+    "OV03": {
+      "id": "OV-S.002",
+      "name": "Application Overview & Module Walkthrough",
+      "provider": "Harain L.",
+      "part": "Part 2/2",
+      "desc": "Understand the system, key modules, key processes/capabilities modelled within each module, Environments & Hosting."
+    },
+    "OV04": {
+      "id": "OV-S.003",
+      "name": "System Context Revisit & Integration Landscape",
+      "provider": "Harain L.",
+      "part": "Part 1/2",
+      "desc": "Database Structures & How Integration Feeds into DB."
+    },
+    "OV05": {
+      "id": "OV-S.003",
+      "name": "System Context Revisit & Integration Landscape",
+      "provider": "Harain L.",
+      "part": "Part 2/2",
+      "desc": "Database Structures & How Integration Feeds into DB."
+    },
+    "OV06": {
+      "id": "OV-S.004",
+      "name": "Support – Roles, Responsibilities & Coordination",
+      "provider": "Harain L.",
+      "part": "Part 1/2",
+      "desc": "Define the RACI for Key Activities, SLAs Covered, Key Business Groups & Users, Key Workarounds Permitted, Key Business Stakeholders, Key other IT Dependencies."
+    },
+    "OV07": {
+      "id": "OV-S.004",
+      "name": "Support – Roles, Responsibilities & Coordination",
+      "provider": "Harain L.",
+      "part": "Part 2/2",
+      "desc": "Define the RACI for Key Activities, SLAs Covered, Key Business Groups & Users, Key Workarounds Permitted, Key Business Stakeholders, Key other IT Dependencies."
+    },
+    "OV08": {
+      "id": "OV-S.005",
+      "name": "Module Discovery & Deep Dive: -Multiple-",
+      "provider": "Harain L.",
+      "part": "Part 1/5",
+      "desc": "Module Functionality, Standard Tasks within the Modules, Business Processes leveraging the module."
+    },
+    "OV09": {
+      "id": "OV-S.005",
+      "name": "Module Discovery & Deep Dive: -Multiple-",
+      "provider": "Harain L.",
+      "part": "Part 2/5",
+      "desc": "Module Functionality, Standard Tasks within the Modules, Business Processes leveraging the module."
+    },
+    "OV10": {
+      "id": "OV-S.005",
+      "name": "Module Discovery & Deep Dive: -Multiple-",
+      "provider": "Harain L.",
+      "part": "Part 3/5",
+      "desc": "Module Functionality, Standard Tasks within the Modules, Business Processes leveraging the module."
+    },
+    "OV11": {
+      "id": "OV-S.005",
+      "name": "Module Discovery & Deep Dive: -Multiple-",
+      "provider": "Harain L.",
+      "part": "Part 4/5",
+      "desc": "Module Functionality, Standard Tasks within the Modules, Business Processes leveraging the module."
+    },
+    "OV12": {
+      "id": "OV-S.005",
+      "name": "Module Discovery & Deep Dive: -Multiple-",
+      "provider": "Harain L.",
+      "part": "Part 5/5",
+      "desc": "Module Functionality, Standard Tasks within the Modules, Business Processes leveraging the module."
+    },
+    "OV13": {
+      "id": "OV-S.006",
+      "name": "Module Discovery & Deep Dive: -Multiple-",
+      "provider": "Harain L.",
+      "part": "Part 1/3",
+      "desc": "Module Functionality, Standard Tasks within the Modules, Business Processes leveraging the module."
+    },
+    "OV14": {
+      "id": "OV-S.006",
+      "name": "Module Discovery & Deep Dive: -Multiple-",
+      "provider": "Harain L.",
+      "part": "Part 2/3",
+      "desc": "Module Functionality, Standard Tasks within the Modules, Business Processes leveraging the module."
+    },
+    "OV15": {
+      "id": "OV-S.006",
+      "name": "Module Discovery & Deep Dive: -Multiple-",
+      "provider": "Harain L.",
+      "part": "Part 3/3",
+      "desc": "Module Functionality, Standard Tasks within the Modules, Business Processes leveraging the module."
+    },
+    "OV16": {
+      "id": "OV-S.007",
+      "name": "Module Discovery & Deep Dive: -Multiple-",
+      "provider": "Harain L.",
+      "part": "Part 1/4",
+      "desc": "Module Functionality, Standard Tasks within the Modules, Business Processes leveraging the module."
+    },
+    "OV17": {
+      "id": "OV-S.007",
+      "name": "Module Discovery & Deep Dive: -Multiple-",
+      "provider": "Harain L.",
+      "part": "Part 2/4",
+      "desc": "Module Functionality, Standard Tasks within the Modules, Business Processes leveraging the module."
+    },
+    "OV18": {
+      "id": "OV-S.007",
+      "name": "Module Discovery & Deep Dive: -Multiple-",
+      "provider": "Harain L.",
+      "part": "Part 3/4",
+      "desc": "Module Functionality, Standard Tasks within the Modules, Business Processes leveraging the module."
+    },
+    "OV19": {
+      "id": "OV-S.007",
+      "name": "Module Discovery & Deep Dive: -Multiple-",
+      "provider": "Harain L.",
+      "part": "Part 4/4",
+      "desc": "Module Functionality, Standard Tasks within the Modules, Business Processes leveraging the module."
+    },
+    "OV20": {
+      "id": "OV-S.008",
+      "name": "Final OV Wrap-up & Pending Questions",
+      "provider": "Harain L.",
+      "part": "Full",
+      "desc": "Final application wrap-up and addressing any remaining queries or documentation gaps."
+    },
+    "TP01": {
+      "id": "TP-S.001",
+      "name": "Business Overview & Purpose of the Application",
+      "provider": "Harain L.",
+      "part": "Full",
+      "desc": "Understanding how the application fits within the overall business context, business capabilities/processes modelled/mapped housed within the current system."
+    },
+    "TP02": {
+      "id": "TP-S.002",
+      "name": "Application Overview & Module Walkthrough",
+      "provider": "Harain L.",
+      "part": "Full",
+      "desc": "Understand the system, key modules, key processes/capabilities modelled within each module, Environments."
+    },
+    "TP03": {
+      "id": "TP-S.003",
+      "name": "System Context Revisit & Integration Landscape",
+      "provider": "Harain L.",
+      "part": "Full",
+      "desc": "System Context Revisit & Integration Landscape."
+    },
+    "TP04": {
+      "id": "TP-S.004",
+      "name": "Support – Roles, Responsibilities & Coordination",
+      "provider": "Harain L.",
+      "part": "Full",
+      "desc": "Define the RACI for Key Activities, SLAs Covered, Key Business Groups & Users, Key Workarounds Permitted, Key Business Stakeholders, Key other IT Dependencies."
+    },
+    "TP05": {
+      "id": "TP-S.005",
+      "name": "Discovery & Deep Dive (Includes IAM)",
+      "provider": "Harain L.",
+      "part": "Full",
+      "desc": "Ticketing Flow of IAM tickets, Approv Mechanism & Actors Involved, Privileges by User Group, User Mapping, Module Functionality, Standard Tasks within the Modules, Business Processes leveraging the module."
+    },
+    "EMPTY": {
+      "id": "Internal Prep",
+      "name": "Internal Preparation/Buffer",
+      "provider": "N/A",
+      "part": "Full",
+      "desc": "Reserved time for internal documentation, prep, or buffer time."
+    }
+  },
+  "initialSchedule": [
+    {
+      "weekLabel": "Week 1: Oct 13 - Oct 17, 2025 (P1 BR/GEO Start)",
+      "dates": [
+        "Mon (10/13)",
+        "Tue (10/14)",
+        "Wed (10/15)",
+        "Thu (10/16)",
+        "Fri (10/17)"
+      ],
+      "slots": [
+        ["EMPTY", "EMPTY", "BR01", "BR02", "BR04"],
+        ["D&L (Prep)", "D&L (Prep)", "D&L (BR01)", "D&L (BR02)", "D&L (BR04)"],
+        ["EMPTY", "EMPTY", "GEO01", "GEO02", "GEO03"],
+        [
+          "D&L (Prep)",
+          "D&L (Prep)",
+          "D&L (GEO01)",
+          "D&L (GEO02)",
+          "D&L (GEO03)"
+        ]
+      ]
+    },
+    {
+      "weekLabel": "Week 2: Oct 20 - Oct 24, 2025 (P1 BR/GEO Acceleration)",
+      "dates": [
+        "Mon (10/20)",
+        "Tue (10/21)",
+        "Wed (10/22)",
+        "Thu (10/23)",
+        "Fri (10/24)"
+      ],
+      "slots": [
+        ["BR05", "BR06", "BR07", "BR08", "BR09"],
+        ["D&L (BR05)", "D&L (BR06)", "D&L (BR07)", "D&L (BR08)", "D&L (BR09)"],
+        ["GEO04", "GEO05", "GEO06", "GEO07", "GEO08"],
+        [
+          "D&L (GEO04)",
+          "D&L (GEO05)",
+          "D&L (GEO06)",
+          "D&L (GEO07)",
+          "D&L (GEO08)"
+        ]
+      ]
+    },
+    {
+      "weekLabel": "Week 3: Oct 27 - Oct 31, 2025 (P1 GEO Completion & BR Push)",
+      "dates": [
+        "Mon (10/27)",
+        "Tue (10/28)",
+        "Wed (10/29)",
+        "Thu (10/30)",
+        "Fri (10/31)"
+      ],
+      "slots": [
+        ["BR10", "BR11", "BR12", "BR13", "BR14"],
+        ["D&L (BR10)", "D&L (BR11)", "D&L (BR12)", "D&L (BR13)", "D&L (BR14)"],
+        ["GEO09", "GEO10", "BR15", "BR16", "BR17"],
+        ["D&L (GEO09)", "D&L (GEO10)", "D&L (BR15)", "D&L (BR16)", "D&L (BR17)"]
+      ]
+    },
+    {
+      "weekLabel": "Week 4: Nov 3 - Nov 7, 2025 (P1 BR Completion & P2 EC Start)",
+      "dates": [
+        "Mon (11/03)",
+        "Tue (11/04)",
+        "Wed (11/05)",
+        "Thu (11/06)",
+        "Fri (11/07)"
+      ],
+      "slots": [
+        ["BR18", "BR19", "BR20", "BR21", "BR22"],
+        ["D&L (BR18)", "D&L (BR19)", "D&L (BR20)", "D&L (BR21)", "D&L (BR22)"],
+        ["BR23", "EC01", "EC02", "EC03", "EC04"],
+        ["D&L (BR23)", "D&L (EC01)", "D&L (EC02)", "D&L (EC03)", "D&L (EC04)"]
+      ]
+    },
+    {
+      "weekLabel": "Week 5: Nov 10 - Nov 14, 2025 (P2 EC Focus & P3 OV Start)",
+      "dates": [
+        "Mon (11/10)",
+        "Tue (11/11)",
+        "Wed (11/12)",
+        "Thu (11/13)",
+        "Fri (11/14)"
+      ],
+      "slots": [
+        ["EC05", "EC06", "EC07", "EC08", "EC09"],
+        ["D&L (EC05)", "D&L (EC06)", "D&L (EC07)", "D&L (EC08)", "D&L (EC09)"],
+        ["EC10", "EC11", "EC12", "OV01", "OV02"],
+        ["D&L (EC10)", "D&L (EC11)", "D&L (EC12)", "D&L (OV01)", "D&L (OV02)"]
+      ]
+    },
+    {
+      "weekLabel": "Week 6: Nov 17 - Nov 21, 2025 (P2 EC & P3 OV Push)",
+      "dates": [
+        "Mon (11/17)",
+        "Tue (11/18)",
+        "Wed (11/19)",
+        "Thu (11/20)",
+        "Fri (11/21)"
+      ],
+      "slots": [
+        ["EC13", "EC14", "EC15", "EC16", "EC17"],
+        ["D&L (EC13)", "D&L (EC14)", "D&L (EC15)", "D&L (EC16)", "D&L (EC17)"],
+        ["OV03", "OV04", "OV05", "OV06", "OV07"],
+        ["D&L (OV03)", "D&L (OV04)", "D&L (OV05)", "D&L (OV06)", "D&L (OV07)"]
+      ]
+    },
+    {
+      "weekLabel": "Week 7: Nov 24 - Nov 28, 2025 (P2 EC Completion & P3 OV/TP Start)",
+      "dates": [
+        "Mon (11/24)",
+        "Tue (11/25)",
+        "Wed (11/26)",
+        "Thu (11/27)",
+        "Fri (11/28)"
+      ],
+      "slots": [
+        ["EC18", "EC19", "EC20", "EC21", "EC22"],
+        ["D&L (EC18)", "D&L (EC19)", "D&L (EC20)", "D&L (EC21)", "D&L (EC22)"],
+        ["OV08", "OV09", "OV10", "OV11", "OV12"],
+        ["D&L (OV08)", "D&L (OV09)", "D&L (OV10)", "D&L (OV11)", "D&L (OV12)"]
+      ]
+    },
+    {
+      "weekLabel": "Week 8: Dec 1 - Dec 5, 2025 (P3 OV/TP Focus)",
+      "dates": [
+        "Mon (12/01)",
+        "Tue (12/02)",
+        "Wed (12/03)",
+        "Thu (12/04)",
+        "Fri (12/05)"
+      ],
+      "slots": [
+        ["EC23", "EC24", "EC25", "OV13", "OV14"],
+        ["D&L (EC23)", "D&L (EC24)", "D&L (EC25)", "D&L (OV13)", "D&L (OV14)"],
+        ["TP01", "TP02", "TP03", "TP04", "TP05"],
+        ["D&L (TP01)", "D&L (TP02)", "D&L (TP03)", "D&L (TP04)", "D&L (TP05)"]
+      ]
+    },
+    {
+      "weekLabel": "Week 9: Dec 8 - Dec 12, 2025 (P3 OV Completion & Wrap-up)",
+      "dates": [
+        "Mon (12/08)",
+        "Tue (12/09)",
+        "Wed (12/10)",
+        "Thu (12/11)",
+        "Fri (12/12)"
+      ],
+      "slots": [
+        ["OV15", "OV16", "OV17", "OV18", "OV19"],
+        ["D&L (OV15)", "D&L (OV16)", "D&L (OV17)", "D&L (OV18)", "D&L (OV19)"],
+        ["OV20", "PH01", "PH02", "PH03", "EMPTY"],
+        [
+          "D&L (OV20)",
+          "D&L (BR Wrap)",
+          "D&L (Final)",
+          "D&L (Final)",
+          "D&L (Prep)"
+        ]
+      ]
+    }
+  ]
+}
